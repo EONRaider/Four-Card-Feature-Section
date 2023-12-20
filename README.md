@@ -1,29 +1,31 @@
-# Frontend Mentor - Project Name solution
+# Frontend Mentor - Four Card Feature Section solution
 
-[![CodeFactor Grade](https://img.shields.io/codefactor/grade/github/EONRaider/project-name?label=CodeFactor&logo=codefactor&style=flat-square)](https://www.codefactor.io/repository/github/eonraider/project-name)
+[![CodeFactor Grade](https://img.shields.io/codefactor/grade/github/EONRaider/four-card-feature-section?label=CodeFactor&logo=codefactor&style=flat-square)](https://www.codefactor.io/repository/github/eonraider/four-card-feature-section)
 [![FrontendMentor](https://img.shields.io/badge/FrontendMentor-EONRaider-blue?style=flat-square)](https://www.frontendmentor.io/profile/EONRaider)
 
-This is a solution to the [Project Name](https://www.frontendmentor.io/challenges/). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to
+the [Four Card Feature Section](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). Frontend
+Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
+    - [Screenshot](#screenshot)
+    - [Links](#links)
 - [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
+    - [Built with](#built-with)
+    - [What I learned](#what-i-learned)
 
 ## Overview
 
-A short description of the project
-
 ### Screenshot
+
+![Four-Card-Feature-Section](https://github.com/EONRaider/Product-Preview-Card-Component/assets/15611424/10689b61-d48f-4fc3-88c5-e42ca0725e6e)
 
 ### Links
 
-- [My Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/project-name)
-- [Check the Live Site](https://project-name.netlify.app/)
+- [My Solution on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK/hub?share=true)
+- [Check the Live Site](https://eonraider-four-card-feature-section.netlify.app/)
 
 ## My process
 
@@ -41,3 +43,6 @@ A short description of the project
 - Cube CSS methodology
 
 ### What I learned
+
+- I've increased my familiarity with CSS Grid. Implementing the adequate grid template and then ensuring responsiveness
+  was challenging but worth it.
