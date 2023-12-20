@@ -205,7 +205,7 @@ header {
     .content {
         width: 375px;
         height: 1360px;
-        padding: 85px 32px 78px 32px;
+        padding: 85px 32px 78px;
     }
 
     header {
